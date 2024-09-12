@@ -10,6 +10,7 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.12.*"
+contextily = "*"
 esda = ">=2.6"
 geopandas = ">=1.0"
 libpysal = ">=4.12.0"
